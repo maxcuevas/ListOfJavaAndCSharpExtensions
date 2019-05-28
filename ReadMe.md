@@ -1,5 +1,10 @@
 Java
 - *.java
+- *.mf
+- *.properties
+- *.jar
+- *.class
+- *.form
 
 
 C#
@@ -10,7 +15,7 @@ C#
 - *.csproj
 - *.dbmdl
 - *.sqlproj
-- *.sqlproj.user
+- *.user
 - *.refactorlog
 - *.scmp
 - *.cache
@@ -22,15 +27,27 @@ C#
 - *.conmgr
 - *.dtsx
 - *.params
-- *.
-- *.
-- *.
+- *.dtproj
+- *.asax
+- *.ico
+- *.cshtml
+- *.eot
+- *.svg
+- *.ttf
+- *.woff
+- *.woff2
+- *.map
+- *.exe
+- *.rsp
+- *.settings
+- *.manifest
+
+JavaScript
+- *.js
 
 Agnostic
 - *.gitignore
 - *.gitattributes
 - *.txt
 - *.xml
-- *.
-- *.
-- *.
+- *.css
