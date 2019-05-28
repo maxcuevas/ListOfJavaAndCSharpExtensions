@@ -1,5 +1,8 @@
+[HR] = "Human Readable"
+[BIN] = "binary"
+
 Java
-- *.java
+- *.java 
 - *.mf
 - *.properties
 - *.jar
@@ -8,51 +11,53 @@ Java
 
 
 C#
-- *.sln
-- *.config
-- *.cs
-- *.resx
-- *.csproj
-- *.dbmdl
-- *.sqlproj
-- *.user
-- *.refactorlog
-- *.scmp
-- *.cache
-- *.dll
-- *.pdb
+- *.sln [HR]
+- *.config [HR]
+- *.cs [HR]
+- *.resx [HR]
+- *.csproj [HR]
+- *.dbmdl [BIN]
+- *.sqlproj [HR]
+- *.user [HR]
+- *.refactorlog [HR]
+- *.scmp [HR]
+- *.cache [BIN]
+- *.dll [BIN]
+- *.pdb [BIN]
 - *.sql
 - *.dacpac
-- *.suo
-- *.conmgr
-- *.dtsx
-- *.params
-- *.dtproj
-- *.asax
-- *.ico
-- *.cshtml
-- *.eot
-- *.svg
-- *.ttf
-- *.woff
-- *.woff2
-- *.map
+- *.suo [BIN]
+- *.conmgr [HR]
+- *.dtsx [HR]
+- *.params [HR]
+- *.dtproj [HR]
+- *.asax [HR]
+- *.ico [BIN]
+- *.cshtml [HR]
+- *.eot [BIN]
+- *.svg [HR]
+- *.ttf [BIN]
+- *.woff [BIN]
+- *.woff2 [BIN]
+- *.map [HR]
 - *.exe
 - *.rsp
 - *.settings
 - *.manifest
+- *.database [HR]
+- *.CopyComplete [BIN]
 
 JavaScript
-- *.js
+- *.js [HR]
 
 Agnostic
-- *.gitignore
-- *.gitattributes
-- *.txt
-- *.xml
-- *.css
+- *.gitignore [HR]
+- *.gitattributes [HR]
+- *.txt [HR]
+- *.xml [HR]
+- *.css [HR]
 - *.bat
-- *.html
+- *.html [HR]
 - *.jpg
 - *.png
 - *.zip
