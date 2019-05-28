@@ -51,3 +51,13 @@ Agnostic
 - *.txt
 - *.xml
 - *.css
+- *.bat
+- *.html
+- *.jpg
+- *.png
+- *.zip
+- *.7z
+- *.jpeg
+- *.pdf
+- *.gif
+
