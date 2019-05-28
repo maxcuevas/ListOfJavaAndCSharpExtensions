@@ -2,13 +2,12 @@
 [BIN] = "binary"
 
 Java
-- *.java 
-- *.mf
-- *.properties
-- *.jar
-- *.class
-- *.form
-
+- *.java [HR]
+- *.mf [HR]
+- *.properties [HR]
+- *.jar [BIN]
+- *.class [BIN]
+- *.form [HR]
 
 C#
 - *.sln [HR]
@@ -24,8 +23,8 @@ C#
 - *.cache [BIN]
 - *.dll [BIN]
 - *.pdb [BIN]
-- *.sql
-- *.dacpac
+- *.sql [HR]
+- *.dacpac [BIN]
 - *.suo [BIN]
 - *.conmgr [HR]
 - *.dtsx [HR]
@@ -40,10 +39,10 @@ C#
 - *.woff [BIN]
 - *.woff2 [BIN]
 - *.map [HR]
-- *.exe
-- *.rsp
-- *.settings
-- *.manifest
+- *.exe [BIN]
+- *.rsp [HR]
+- *.settings [HR]
+- *.manifest [HR]
 - *.database [HR]
 - *.CopyComplete [BIN]
 
@@ -56,13 +55,12 @@ Agnostic
 - *.txt [HR]
 - *.xml [HR]
 - *.css [HR]
-- *.bat
+- *.bat [HR]
 - *.html [HR]
-- *.jpg
-- *.png
-- *.zip
-- *.7z
-- *.jpeg
-- *.pdf
-- *.gif
-
+- *.jpg [BIN]
+- *.png [BIN]
+- *.zip [BIN]
+- *.7z [BIN]
+- *.jpeg [BIN]
+- *.pdf [BIN]
+- *.gif [BIN]
