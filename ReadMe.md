@@ -45,6 +45,7 @@ C#
 - *.manifest [HR]
 - *.database [HR]
 - *.CopyComplete [BIN]
+- *.nupkg [BIN]
 
 JavaScript
 - *.js [HR]
